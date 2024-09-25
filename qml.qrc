@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/qml/main.qml</file>
+        <file>ui/qml/common/custombutton/CustomButton.qml</file>
+        <file>ui/qml/common/customcombobox/CommonComboBox.qml</file>
+        <file>ui/images/uyar_logo.png</file>
+    </qresource>
+</RCC>
